@@ -29,7 +29,7 @@ Resource IDs and names are written in **lowercase_underscore**.
 |SwitchButton  | switch_  |
 |Toolbar  | toolbar_ |
 |WebView  | web_ |
-|FragmentContainerView  | fragment_container |
+|FragmentContainerView  | container |
 
 #### Menu
 |Element  | Prefix |
